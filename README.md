@@ -13,7 +13,7 @@ Code Runner is a lightweight Flask-based microservice designed to execute Python
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-org/code-runner.git
+   git clone https://github.com/WillyTonkas/code-runner.git
    cd code-runner
    ```
 2. Install dependencies:
