@@ -39,4 +39,4 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/willytonkas/code-runner:latest
+            ghcr.io/merge64/code-runner:latest
